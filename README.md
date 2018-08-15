@@ -7,9 +7,9 @@
 BundleID
 provisionProfile
 
-1.利用终端cd进入需要打包的文件夹
-2.使用./AutoArchive.sh
-3.结束等待出包
+1.利用终端cd进入需要打包的文件夹   
+2.使用./AutoArchive.sh  
+3.结束等待出包    
 
 
 可能会出现的问题
